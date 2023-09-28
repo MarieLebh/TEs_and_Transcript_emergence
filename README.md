@@ -110,9 +110,9 @@ Part 6: R scripts for plots, tables and stats
 	- 9. Merge transcript and homolog data for stats
 		Input: Csv files from 4.2 (for transcripts + homologs and their up/downstream), Bedtools merge output (for transcripts + homologs), Motif output csv fron 5.2 (motifs) and 5.3 (core) for transcripts and homologs
 		Output: Merged csv file with info for transcripts and homologs
-  - 10. Filter transcript homolog data
-    Input: File from 6.9
-    Output: Filtered file for 6.11
+ 	 - 10. Filter transcript homolog data
+   		 Input: File from 6.9
+   		 Output: Filtered file for 6.11
 	- 11. Plots and stats
 		Input: Merged csv file with info for transcripts and homologs (from 6.10), Csv file from 6.4, Csv file from 6.8, Merged outputfile from 1.4
 		Output: Fig 1B-D, Fig.3 A, C, D, E, Fig.4, Fig.5 + stats
