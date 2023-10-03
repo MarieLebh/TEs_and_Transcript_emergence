@@ -114,5 +114,5 @@ Part 6: R scripts for plots, tables and stats
    		 Input: File from 6.9
    		 Output: Filtered file for 6.11
 	- 11. Plots and stats
-		Input: Merged csv file with info for transcripts and homologs (from 6.10), Csv file from 6.4, Csv file from 6.8, Merged outputfile from 1.4
-		Output: Fig 1B-D, Fig.3 A, C, D, E, Fig.4, Fig.5 + stats
+		Input: Merged csv file with info for transcripts and homologs (from 6.10), Csv file from 6.4, Csv file from 6.8, Merged outputfile from 1.4, CpG info files, transcript/te density files
+		Output: Fig.3 A, C, D, E, Fig.4, Fig.5 + stats, supplemental figures
