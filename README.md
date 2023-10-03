@@ -1,6 +1,6 @@
 # TEs_and_Transcript_emergence
 
-Scripts of the analysis carriee out in the manuscript "DNA transposons favour de novo transcript emergence trough enrichment of transcription factor binding motifs"
+Scripts of the analysis carried out in the manuscript "DNA transposons favour de novo transcript emergence trough enrichment of transcription factor binding motifs"
 
 Part 1: De novo transcripts (Detection, filtering, characteristics)
 
