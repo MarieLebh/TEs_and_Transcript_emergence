@@ -1,0 +1,148 @@
+
+DK
+Genome composition
+
+Genome size : 128,957,693
+Masked bp   : 20,295,989
+Unmasked bp : 108,661,704
+Overlap bp  : 272,556
+
+Category	bp	percent
+LTR	8707989	6.75
+LINE	4224206	3.28
+Simple_repeat	3502759	2.72
+DNA	1274923	0.99
+RC	943419	0.73
+Satellite	706446	0.55
+Low_complexity	447115	0.35
+Unknown	430073	0.33
+rRNA	46175	0.04
+Other	12884	0.01
+Unmasked	108661704	84.26
+
+ES
+Genome composition
+
+Genome size : 135,648,395
+Masked bp   : 26,189,828
+Unmasked bp : 109,458,567
+Overlap bp  : 521,874
+
+Category	bp	percent
+LTR	12459085	9.18
+LINE	5539663	4.08
+Simple_repeat	3499886	2.58
+DNA	1724904	1.27
+Satellite	949214	0.70
+Unknown	797992	0.59
+RC	643125	0.47
+Low_complexity	443952	0.33
+rRNA	106847	0.08
+Other	25160	0.02
+Unmasked	109458567	80.69
+
+FI
+Genome composition
+
+Genome size : 131,965,010
+Masked bp   : 22,990,294
+Unmasked bp : 108,974,716
+Overlap bp  : 248,064
+
+Category	bp	percent
+LTR	10391922	7.87
+LINE	4569750	3.46
+Simple_repeat	3618924	2.74
+DNA	1707501	1.29
+RC	1062693	0.81
+Satellite	779423	0.59
+Low_complexity	436442	0.33
+Unknown	362133	0.27
+Other	30301	0.02
+rRNA	26829	0.02
+SINE	2206	0.00
+SINE?	2170	0.00
+Unmasked	108974716	82.58
+
+SE
+Genome composition
+
+Genome size : 131,444,592
+Masked bp   : 23,048,323
+Unmasked bp : 108,396,269
+Overlap bp  : 318,169
+
+Category	bp	percent
+LTR	10438201	7.94
+LINE	4595530	3.50
+Simple_repeat	3411863	2.60
+DNA	1754158	1.33
+RC	1109548	0.84
+Satellite	648853	0.49
+Unknown	437895	0.33
+Low_complexity	437466	0.33
+rRNA	109851	0.08
+Other	97529	0.07
+SINE?	7429	0.01
+Unmasked	108396269	82.47
+
+UA
+Genome composition
+
+Genome size : 130,971,409
+Masked bp   : 21,174,112
+Unmasked bp : 109,797,297
+Overlap bp  : 243,454
+
+Category	bp	percent
+LTR	9632702	7.35
+LINE	4270522	3.26
+Simple_repeat	3465024	2.65
+DNA	1444971	1.10
+RC	960283	0.73
+Satellite	594605	0.45
+Low_complexity	449157	0.34
+Unknown	356848	0.27
+Unmasked	109797297	83.83
+
+TR
+Genome composition
+
+Genome size : 133,745,304
+Masked bp   : 23,880,927
+Unmasked bp : 109,864,377
+Overlap bp  : 477,818
+
+Category	bp	percent
+LTR	11048955	8.26
+LINE	5046603	3.77
+Simple_repeat	3500444	2.62
+DNA	1582712	1.18
+RC	1130794	0.85
+Satellite	689905	0.52
+Low_complexity	443507	0.33
+Unknown	437529	0.33
+SINE	478	0.00
+Unmasked	109864377	82.14
+
+ZI
+Genome composition
+
+Genome size : 128,144,318
+Masked bp   : 20,040,157
+Unmasked bp : 108,104,161
+Overlap bp  : 302,426
+
+Category	bp	percent
+LTR	8782920	6.85
+LINE	3916327	3.06
+Simple_repeat	3391717	2.65
+DNA	1243576	0.97
+RC	1098849	0.86
+Satellite	670691	0.52
+Low_complexity	434672	0.34
+Unknown	369763	0.29
+rRNA	101527	0.08
+Other	28067	0.02
+SINE?	2048	0.00
+Unmasked	108104161	84.36

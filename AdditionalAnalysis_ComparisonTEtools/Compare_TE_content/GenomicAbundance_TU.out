@@ -1,0 +1,105 @@
+
+DK
+Genome composition
+
+Genome size : 128,957,693
+Masked bp   : 19,036,621
+Unmasked bp : 109,921,072
+Overlap bp  : 4,781,641
+
+Category	bp	percent
+LTR	9864355	7.65
+DNA	8743615	6.78
+Non-LTR	314191	0.24
+Helitron	114460	0.09
+Unmasked	109921072	85.24
+
+ES
+Genome composition
+
+Genome size : 135,648,395
+Masked bp   : 23,770,904
+Unmasked bp : 111,877,491
+Overlap bp  : 8,177,437
+
+Category	bp	percent
+LTR	12850406	9.47
+DNA	10573780	7.79
+Non-LTR	255118	0.19
+Helitron	91600	0.07
+Unmasked	111877491	82.48
+
+FI
+Genome composition
+
+Genome size : 131,965,010
+Masked bp   : 19,990,305
+Unmasked bp : 111,974,705
+Overlap bp  : 5,196,340
+
+Category	bp	percent
+LTR	10243665	7.76
+DNA	9402262	7.12
+Non-LTR	179443	0.14
+Helitron	164935	0.12
+Unmasked	111974705	84.85
+
+SE
+Genome composition
+
+Genome size : 131,444,592
+Masked bp   : 20,577,132
+Unmasked bp : 110,867,460
+Overlap bp  : 5,259,031
+
+Category	bp	percent
+LTR	10239104	7.79
+DNA	10011114	7.62
+Non-LTR	200005	0.15
+Helitron	126909	0.10
+Unmasked	110867460	84.35
+
+UA
+Genome composition
+
+Genome size : 130,971,409
+Masked bp   : 21,413,205
+Unmasked bp : 109,558,204
+Overlap bp  : 4,681,680
+
+Category	bp	percent
+LTR	10727759	8.19
+DNA	10346511	7.90
+Non-LTR	212950	0.16
+Helitron	125985	0.10
+Unmasked	109558204	83.65
+
+TR
+Genome composition
+
+Genome size : 133,745,304
+Masked bp   : 21,373,767
+Unmasked bp : 112,371,537
+Overlap bp  : 5,605,005
+
+Category	bp	percent
+LTR	10720257	8.02
+DNA	10304640	7.70
+Non-LTR	213145	0.16
+Helitron	135725	0.10
+Unmasked	112371537	84.02
+
+ZI
+Genome composition
+
+Genome size : 128,144,318
+Masked bp   : 16,970,923
+Unmasked bp : 111,173,395
+Overlap bp  : 3,078,827
+
+Category	bp	percent
+LTR	8398853	6.55
+DNA	8304022	6.48
+Non-LTR	150418	0.12
+Helitron	117630	0.09
+Unmasked	111173395	86.76

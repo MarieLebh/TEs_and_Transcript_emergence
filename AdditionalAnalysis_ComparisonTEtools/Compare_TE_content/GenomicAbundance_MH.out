@@ -1,0 +1,124 @@
+
+DK
+Genome composition
+
+Genome size : 128,957,693
+Masked bp   : 20,047,003
+Unmasked bp : 108,910,690
+Overlap bp  : 405,567
+
+Category	bp	percent
+LTR	9072899	7.04
+LINE	4061697	3.15
+Simple_repeat	3543078	2.75
+DNA	1929213	1.50
+HELITRON	992347	0.77
+Low_complexity	447769	0.35
+Unmasked	108910690	84.45
+
+ES
+Genome composition
+
+Genome size : 135,648,395
+Masked bp   : 25,952,162
+Unmasked bp : 109,696,233
+Overlap bp  : 897,181
+
+Category	bp	percent
+LTR	14333103	10.57
+LINE	5195796	3.83
+Simple_repeat	3563562	2.63
+DNA	1269996	0.94
+HELITRON	939316	0.69
+Low_complexity	443390	0.33
+CLASSI	185485	0.14
+MAVERICK	21514	0.02
+Unmasked	109696233	80.87
+
+FI
+Genome composition
+
+Genome size : 131,965,010
+Masked bp   : 22,259,022
+Unmasked bp : 109,705,988
+Overlap bp  : 665,040
+
+Category	bp	percent
+LTR	11186378	8.48
+LINE	4459677	3.38
+Simple_repeat	3667906	2.78
+DNA	1451342	1.10
+HELITRON	982568	0.74
+Low_complexity	435145	0.33
+CLASSI	76006	0.06
+Unmasked	109705988	83.13
+
+SE
+Genome composition
+
+Genome size : 131,444,592
+Masked bp   : 22,745,497
+Unmasked bp : 108,699,095
+Overlap bp  : 725,326
+
+Category	bp	percent
+LTR	11489373	8.74
+LINE	4816972	3.66
+Simple_repeat	3545723	2.70
+DNA	1505374	1.15
+HELITRON	949781	0.72
+Low_complexity	438274	0.33
+Unmasked	108699095	82.70
+
+UA
+Genome composition
+
+Genome size : 130,971,409
+Masked bp   : 21,330,735
+Unmasked bp : 109,640,674
+Overlap bp  : 540,690
+
+Category	bp	percent
+LTR	10808966	8.25
+LINE	4199263	3.21
+Simple_repeat	3498542	2.67
+DNA	1417572	1.08
+HELITRON	961067	0.73
+Low_complexity	445325	0.34
+Unmasked	109640674	83.71
+
+TR
+Genome composition
+
+Genome size : 133,745,304
+Masked bp   : 23,587,662
+Unmasked bp : 110,157,642
+Overlap bp  : 657,801
+
+Category	bp	percent
+LTR	11991237	8.97
+LINE	4981620	3.72
+Simple_repeat	3558067	2.66
+HELITRON	1304002	0.97
+DNA	1272305	0.95
+Low_complexity	440833	0.33
+CLASSI	36369	0.03
+SINE	3229	0.00
+Unmasked	110157642	82.36
+
+ZI
+Genome composition
+
+Genome size : 128,144,318
+Masked bp   : 19,317,351
+Unmasked bp : 108,826,967
+Overlap bp  : 440,343
+
+Category	bp	percent
+LTR	9491771	7.41
+LINE	3717072	2.90
+Simple_repeat	3456143	2.70
+DNA	1206703	0.94
+HELITRON	1010025	0.79
+Low_complexity	435637	0.34
+Unmasked	108826967	84.93
