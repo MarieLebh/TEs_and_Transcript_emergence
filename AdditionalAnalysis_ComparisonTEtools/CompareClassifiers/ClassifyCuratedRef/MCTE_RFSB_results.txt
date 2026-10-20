@@ -1,0 +1,334 @@
+>con2_BS4
+hAT,TIR,DNATransposon 2/1/2  0.4 0.3 0.3 0.5 0.1 0.6 1.0 0.0 0.5 0.8 0.0 0.5 0.1 0.1 0.1 0.0 0.4 0.0 
+>con2_Dbuz-Kepler
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 1.0 0.2 0.4 0.0 0.0 0.5 0.1 1.0 1.0 0.2 0.0 0.0 0.1 0.2 0.0 0.1 0.0 
+>con2_diver2
+hAT,TIR,DNATransposon 2/1/2  0.5 1.0 0.0 0.4 0.0 0.0 0.4 0.0 0.8 0.9 0.0 0.6 0.0 0.0 0.0 0.0 0.0 0.0 
+>con2_Doc4
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 0.9 0.0 0.3 0.0 0.4 0.9 0.0 0.2 0.8 0.0 0.2 0.0 0.0 0.0 0.0 0.2 0.0 
+>con2_Fw2
+LINE,Non-LTR,Retrotransposon 1/2/1  0.7 0.2 0.1 0.3 0.0 0.9 1.0 0.0 0.1 0.7 0.1 0.3 0.1 0.0 0.0 0.1 0.7 0.0 
+>con2_G3
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.6 0.2 0.5 0.1 0.5 0.7 0.0 0.1 0.4 0.0 0.5 0.2 0.0 0.0 0.2 0.5 0.0 
+>con2_gtwin
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.8 0.0 0.0 0.7 0.0 0.0 0.7 0.0 0.5 0.2 0.0 0.0 0.2 0.0 0.0 
+>con2_gypsy5
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.8 0.0 1.0 0.0 0.0 0.7 0.0 0.1 0.2 0.0 0.1 0.3 0.1 0.0 0.1 0.6 0.0 
+>con2_gypsy10
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.9 0.0 0.8 0.0 0.0 0.4 0.0 0.2 0.6 0.1 0.5 0.0 0.0 0.0 0.0 0.4 0.0 
+>con2_NOF
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.9 0.0 0.3 0.1 0.0 0.5 0.0 0.6 0.8 0.1 0.0 0.1 0.0 0.0 0.0 0.2 0.0 
+>con2_Tc3
+hAT,TIR,DNATransposon 2/1/2  0.3 1.0 0.0 0.6 0.0 0.0 0.4 0.0 0.9 0.7 0.2 0.4 0.2 0.0 0.0 0.0 0.4 0.0 
+>con2_UnFUnCl003_RLX-incomp
+Gypsy,LTR,Retrotransposon 1/1/2  0.5 1.0 0.1 0.7 0.0 0.1 0.5 0.0 0.4 0.5 0.0 0.5 0.2 0.1 0.0 0.1 0.2 0.0 
+>con3_Doc3
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.1 0.3 0.0 0.9 1.0 0.0 0.0 0.5 0.3 0.4 0.0 0.0 0.1 0.1 0.0 0.0 
+>con3_G4
+LINE,Non-LTR,Retrotransposon 1/2/1  0.7 0.5 0.0 0.1 0.0 0.8 1.0 0.0 0.1 0.2 0.0 0.3 0.1 0.0 0.1 0.1 0.6 0.0 
+>con3_G6b
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.0 0.0 0.3 0.2 0.8 1.0 0.0 0.1 0.9 0.1 0.7 0.0 0.0 0.1 0.1 0.1 0.0 
+>con3_gypsy
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.8 0.0 0.0 0.7 0.0 0.1 0.6 0.0 0.6 0.0 0.0 0.0 0.0 0.1 0.0 
+>con3_gypsy6
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.8 0.0 0.0 0.7 0.0 0.0 0.8 0.1 0.7 0.1 0.0 0.0 0.0 0.1 0.0 
+>con3_gypsy8
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.8 0.0 0.0 0.7 0.0 0.0 1.0 0.2 0.55 0.0 0.0 0.0 0.1 0.0 0.0 
+>con3_invader2
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.2 0.8 0.0 0.2 0.8 0.0 0.1 0.5 0.1 0.1 0.1 0.1 0.2 0.1 0.3 0.0 
+>con3_looper1
+CMC,TIR,DNATransposon 2/1/3  0.3 0.9 0.0 0.2 0.2 0.0 0.9 0.0 0.8 0.6 0.0 0.1 0.4 0.0 0.0 0.2 0.1 0.0 
+>con3_Porto1
+LINE,Non-LTR,Retrotransposon 1/2/1  0.8 0.1 0.2 0.7 0.0 1.0 1.0 0.0 0.1 0.5 0.1 0.3 0.1 0.1 0.2 0.1 0.6 0.0 
+>con3_Tc1-2
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.1 0.9 0.1 0.3 0.2 0.0 0.6 0.0 0.8 1.0 0.6 0.4 0.2 0.1 0.0 0.0 0.2 0.0 
+>con4_Doc2
+LINE,Non-LTR,Retrotransposon 1/2/1  0.6 0.3 0.1 0.2 0.0 0.9 0.9 0.0 0.1 0.6 0.1 0.4 0.2 0.0 0.1 0.1 0.5 0.0 
+>con4_GATE
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.3 0.0 0.0 0.8 0.0 0.3 0.9 0.0 0.8 0.0 0.0 0.0 0.0 0.1 0.0 
+>con4_GATEa
+Copia,LTR,Retrotransposon 1/1/1  0.4 1.0 0.7 0.0 0.0 0.0 0.1 0.0 0.3 0.5 0.0 0.1 0.4 0.1 0.1 0.0 0.1 0.0 
+>con4_G-element
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.4 0.0 0.3 0.0 0.4 1.0 0.0 0.0 1.0 0.0 0.5 0.0 0.0 0.0 0.0 0.0 0.0 
+>con4_invader6
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.9 0.0 0.0 0.5 0.0 0.2 0.5 0.0 0.1 0.2 0.1 0.0 0.2 0.0 0.0 
+>con4_UnFmcl032_RLX-incomp
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.8 0.2 0.0 0.0 0.3 0.0 0.5 0.6 0.2 0.4 0.1 0.0 0.0 0.0 0.1 0.0 
+>con4_UnFmcl034_RLX-incomp
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.0 0.8 0.0 0.0 0.2 0.1 0.3 0.7 0.0 0.2 0.5 0.1 0.0 0.0 0.3 0.0 
+>con4_UnFUnCl002_DHX-incomp
+hAT,TIR,DNATransposon 2/1/2  0.2 1.0 0.1 0.9 0.0 0.0 0.5 0.3 0.5 0.9 0.1 0.4 0.4 0.0 0.4 0.0 0.1 0.0 
+>con5_Cr1a
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 0.8 0.0 0.4 0.0 0.7 1.0 0.0 0.4 0.5 0.0 0.3 0.1 0.1 0.0 0.2 0.6 0.0 
+>con5_hopper2
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.0 0.25 0.0 0.0 0.5 0.0 0.9 0.7 0.0 0.4 0.0 0.1 0.0 0.0 0.1 0.0 
+>con5_transib1
+hAT,TIR,DNATransposon 2/1/2  0.2 0.9 0.1 0.3 0.0 0.0 0.8 0.0 0.8 0.8 0.0 0.2 0.1 0.0 0.0 0.0 0.2 0.0 
+>con6_1731
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.9 0.0 0.0 0.1 0.6 0.0 0.2 0.9 0.2 0.4 0.0 0.0 0.0 0.2 0.2 0.0 
+>con6_Stalker3
+hAT,TIR,DNATransposon 2/1/2  0.6 1.0 0.3 0.6 0.2 0.0 0.3 0.4 0.8 0.6 0.0 0.5 0.1 0.1 0.2 0.2 0.1 0.1 
+>con6_UnFmcl028_RLX-incomp
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.8 0.0 0.0 1.0 0.0 0.1 0.6 0.0 0.5 0.0 0.0 0.1 0.0 0.2 0.0 
+>con7_Dbuz-INE-1
+hAT,TIR,DNATransposon 2/1/2  0.5 1.0 0.1 0.7 0.0 0.1 0.3 0.2 0.7 0.8 0.0 0.3 0.1 0.1 0.1 0.0 0.2 0.0 
+>con7_Dm88
+Copia,LTR,Retrotransposon 1/1/1  1.0 1.0 0.8 0.1 0.0 0.0 0.6 0.0 0.1 0.9 0.2 0.1 0.0 0.0 0.0 0.1 0.3 0.0 
+>con7_G6a
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.6 0.3 0.5 0.1 0.5 1.0 0.0 0.0 1.0 0.2 0.5 0.1 0.0 0.1 0.1 0.1 0.0 
+>con7_gypsy12
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.5 0.0 0.0 0.4 0.0 0.0 0.7 0.1 0.2 0.1 0.0 0.0 0.0 0.1 0.0 
+>con7_Stalker4
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.1 1.0 0.0 0.0 1.0 0.0 0.2 0.6 0.0 0.5 0.1 0.1 0.0 0.0 0.7 0.0 
+>con7_UnFmcl002_RXX-LARD
+hAT,TIR,DNATransposon 2/1/2  0.2 0.7 0.4 0.6 0.0 0.2 0.7 0.5 0.8 0.7 0.0 0.3 0.0 0.1 0.2 0.0 0.0 0.1 
+>con8_G2
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.2 0.0 0.4 0.2 0.7 1.0 0.0 0.2 0.9 0.0 0.5 0.1 0.0 0.0 0.0 0.0 0.0 
+>con8_gypsy4
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.9 0.0 0.9 0.0 0.2 1.0 0.0 0.1 0.5 0.0 0.5 0.0 0.0 0.0 0.0 0.2 0.0 
+>con8_invader1
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.2 0.0 0.0 0.4 0.0 0.5 1.0 0.2 0.4 0.1 0.0 0.0 0.0 0.0 0.0 
+>con8_micropia
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.06666666666666667 0.5 0.0 0.0 0.8 0.0 0.2 0.8 0.2 0.0 0.2 0.0 0.0 0.1 0.4 0.0 
+>con8_UnFmcl025_RLX-comp
+Copia,LTR,Retrotransposon 1/1/1  0.9 1.0 0.7 0.1 0.0 0.0 0.4 0.0 0.5 1.0 0.1 0.1 0.3 0.0 0.0 0.0 0.0 0.0 
+>con9_Bari1
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.3 1.0 0.2 0.3 0.2 0.0 0.6 0.0 0.9 0.8 0.3 0.3 0.1 0.0 0.1 0.0 0.2 0.0 
+>con9_UnFUnCl001_DTX-incomp
+hAT,TIR,DNATransposon 2/1/2  0.2 0.9 0.2 0.6 0.2 0.1 0.4 0.4 0.9 0.9 0.2 0.3 0.0 0.0 0.2 0.0 0.2 0.0 
+>con10_3S18
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.1 0.5 0.0 0.0 0.9 0.0 0.2 0.8 0.0 0.3 0.0 0.0 0.1 0.0 0.1 0.0 
+>con10_accord
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.9 0.0 0.9 0.0 0.1 0.9 0.0 0.1 0.3 0.1 0.2 0.2 0.2 0.0 0.0 0.5 0.0 
+>con10_HMS-Beagle2
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.9 0.0 0.0 0.9 0.0 0.1 0.6 0.6 0.1 0.2 0.0 0.0 0.1 0.5 0.0 
+>con10_Idefix
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.1 0.5 0.0 0.1 0.9 0.0 0.1 0.3 0.0 0.1 0.3 0.0 0.1 0.0 0.5 0.0 
+>con10_McClintock
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.9 0.1 0.9 0.1 0.0 0.9 0.0 0.0 0.5 0.0 0.2 0.25 0.2 0.0 0.1 0.6 0.0 
+>con10_UnFmcl019_RLX-incomp
+Copia,LTR,Retrotransposon 1/1/1  0.6 1.0 0.4 0.3 0.0 0.0 0.3 0.0 0.3 0.3 0.1 0.0 0.1 0.0 0.1 0.4 0.4 0.0 
+>con11_hopper
+hAT,TIR,DNATransposon 2/1/2  0.4 0.8 0.5 0.3 0.0 0.0 0.4 0.0 0.7 0.7 0.0 0.2 0.2 0.0 0.1 0.0 0.2 0.0 
+>con11_mariner2
+hAT,TIR,DNATransposon 2/1/2  0.3 1.0 0.2 0.4 0.0 0.0 0.6 0.0 0.6 0.9 0.0 0.3 0.1 0.1 0.1 0.0 0.2 0.0 
+>con12_Doc
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.2 0.0 0.5 0.0 0.9 1.0 0.0 0.0 0.5 0.0 0.4 0.0 0.0 0.0 0.0 0.5 0.0 
+>con12_Stalker4C
+Gypsy,LTR,Retrotransposon 1/1/2  0.4 1.0 0.0 0.7 0.0 0.0 0.3 0.0 0.3 0.6 0.1 0.0 0.6 0.0 0.0 0.1 0.3 0.0 
+>con12_TAHRE
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.2 0.0 0.0 0.1 0.9 1.0 0.0 0.0 0.4 0.1 0.0 0.2 0.1 0.0 0.1 0.5 0.0 
+>con12_UnFmcl011_RLX-incomp
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.8 0.0 0.2 0.7 0.0 0.2 0.8 0.0 0.1 0.0 0.2 0.0 0.1 0.4 0.0 
+>con13_diver
+hAT,TIR,DNATransposon 2/1/2  0.3 1.0 0.3 0.3 0.0 0.0 0.7 0.0 0.6 0.8 0.0 0.3 0.1 0.0 0.0 0.0 0.0 0.0 
+>con13_HB
+hAT,TIR,DNATransposon 2/1/2  0.5 1.0 0.2 0.6 0.2 0.1 0.4 0.0 0.7 0.7 0.0 0.7 0.0 0.0 0.1 0.0 0.2 0.0 
+>con13_Tc1
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.4 1.0 0.0 0.5 0.1 0.0 0.5 0.0 0.7 0.8 0.9 0.3 0.4 0.0 0.1 0.0 0.0 0.0 
+>con13_UnFmcl013_RLX-incomp
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.1 0.9 0.0 0.0 0.3 0.0 0.2 0.6 0.2 0.1 0.1 0.2 0.0 0.1 0.3 0.0 
+>con14_F-element
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.3 0.0 0.4 0.0 0.6 1.0 0.0 0.0 0.7 0.1 0.6 0.0 0.0 0.1 0.1 0.1 0.0 
+>con14_invader4
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.3 0.5 0.0 0.0 0.4 0.1 0.7 0.8 0.2 0.5 0.2 0.0 0.0 0.0 0.2 0.0 
+>con14_Juan
+Gypsy,LTR,Retrotransposon 1/1/2  0.5 0.8 0.15 0.2 0.1 0.3 1.0 0.0 0.3 0.4 0.0 0.4 0.3 0.2 0.0 0.0 0.5 0.0 
+>con14_Rt1a
+LINE,Non-LTR,Retrotransposon 1/2/1  0.8 0.0 0.0 0.1 0.0 0.8 1.0 0.0 0.3 1.0 0.0 0.6 0.0 0.0 0.0 0.0 0.1 0.0 
+>con15_flea
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.8 0.1 0.8 0.1 0.0 0.9 0.0 0.1 0.8 0.1 0.1 0.2 0.1 0.1 0.1 0.2 0.0 
+>con15_pogo
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 1.0 0.0 0.3 0.1 0.0 0.6 0.0 0.9 0.9 0.4 0.2 0.2 0.1 0.1 0.0 0.1 0.0 
+>con15_Rt1b
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.3 0.0 0.4 0.1 0.7 1.0 0.0 0.1 0.8 0.1 0.8 0.0 0.0 0.0 0.0 0.0 0.0 
+>con16_blood
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 1.0 0.0 0.0 0.8 0.0 0.2 0.6 0.0 0.4 0.4 0.2 0.0 0.0 0.6 0.0 
+>con17_invader3
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.5 0.0 0.0 0.6 0.0 0.1 0.4 0.4 0.2 0.2 0.1 0.0 0.1 0.2 0.0 
+>con17_Max-element
+hAT,TIR,DNATransposon 2/1/2  0.4 1.0 0.1 0.5666666666666667 0.0 0.0 0.6 0.0 0.5 0.9 0.0 0.9 0.0 0.0 0.0 0.0 0.0 0.0 
+>con17_rover
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.8 0.2 0.8 0.1 0.1 0.9 0.1 0.2 0.4 0.3 0.2 0.1 0.3 0.1 0.0 0.4 0.0 
+>con19_Quasimodo
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.9 0.0 0.5 0.0 0.1 0.9 0.0 0.3 0.2 0.2 0.2 0.3 0.1 0.1 0.0 0.6 0.0 
+>con19_transib2
+CMC,TIR,DNATransposon 2/1/3  0.3 1.0 0.1 0.5 0.0 0.0 0.6 0.1 1.0 0.6 0.0 0.3 0.5 0.0 0.0 0.0 0.3 0.0 
+>con20_Burdock
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.9 0.0 0.1 0.8 0.0 0.0 0.4 0.0 0.1 0.1 0.0 0.0 0.0 0.5 0.0 
+>con20_HMS-Beagle
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.0 0.9 0.0 0.1 0.7 0.0 0.2 0.3 0.2 0.2 0.1 0.0 0.0 0.2 0.6 0.0 
+>con20_jockey
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.8 0.0 0.4 0.2 0.2 0.9 0.0 0.3 0.8 0.0 0.2 0.1 0.0 0.0 0.0 0.4 0.0 
+>con21_HeT-A
+Gypsy,LTR,Retrotransposon 1/1/2  0.4 1.0 0.0 0.5 0.0 0.0 1.0 0.0 0.4 0.7 0.1 0.5 0.0 0.2 0.0 0.0 0.2 0.0 
+>con21_Ivk
+LINE,Non-LTR,Retrotransposon 1/2/1  0.8 0.3 0.1 0.4 0.1 0.8 1.0 0.0 0.1 0.3 0.0 0.3 0.2 0.0 0.0 0.2 0.7 0.0 
+>con21_springer
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.8 0.0 0.0 0.7 0.0 0.0 0.9 0.1 0.8 0.1 0.0 0.0 0.0 0.0 0.0 
+>con22_S-element
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.3 1.0 0.5 0.3 0.1 0.1 0.6 0.0 0.9 0.4 0.7 0.1 0.3 0.0 0.0 0.0 0.1 0.0 
+>con22_Stalker2
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.8 0.1 0.4 0.0 0.1 0.9 0.0 0.2 0.2 0.0 0.3 0.3 0.2 0.0 0.1 0.3 0.0 
+>con23_copia
+Copia,LTR,Retrotransposon 1/1/1  0.7 0.9 0.9 0.0 0.0 0.0 0.4 0.0 0.4 0.6 0.0 0.0 0.5 0.1 0.0 0.0 0.3 0.0 
+>con24_Transpac
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 1.0 0.0 0.8 0.0 0.1 0.9 0.0 0.2 0.7 0.0 0.1 0.1 0.2 0.0 0.0 0.4 0.0 
+>con24_UnFmcl003_noCat
+hAT,TIR,DNATransposon 2/1/2  0.2 1.0 0.1 0.2 0.2 0.1 0.4 0.4 0.7 0.7 0.2 0.3 0.3 0.0 0.1 0.1 0.0 0.0 
+>con24_X-element
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.6 0.1 0.2 0.0 0.5 0.9 0.0 0.2 0.8 0.2 0.7 0.1 0.0 0.0 0.1 0.0 0.0 
+>con25_1360
+CMC,TIR,DNATransposon 2/1/3  0.2 1.0 0.0 0.4 0.0 0.1 0.4 0.0 1.0 0.9 0.0 0.1 0.5 0.1 0.0 0.0 0.2 0.0 
+>con25_opus
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.9 0.1 0.0 0.7 0.0 0.1 0.8 0.0 0.5 0.0 0.0 0.0 0.1 0.3 0.0 
+>con26_BS
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.0 0.2 0.0 0.2 0.9 0.0 0.2 0.9 0.0 0.3 0.3 0.0 0.0 0.1 0.6 0.0 
+>con26_I-element
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 0.7 0.2 0.5 0.3 0.0 1.0 0.0 0.1 0.4 0.0 0.3 0.3 0.0 0.1 0.1 0.6 0.0 
+>con26_mdg3
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.6 0.0 0.0 0.6 0.0 0.2 0.45 0.0 0.2 0.1 0.0 0.0 0.0 0.4 0.0 
+>con26_Tirant
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.0 0.8 0.0 0.0 0.6 0.0 0.0 0.4 0.2 0.4 0.1 0.2 0.0 0.0 0.4 0.0 
+>con33_17-6
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.3 0.8 0.0 0.0 0.9 0.0 0.4 0.2 0.1 0.1 0.1 0.2 0.2 0.1 0.5 0.0 
+>con33_P-element
+CMC,TIR,DNATransposon 2/1/3  0.3 0.9 0.0 0.6 0.0 0.0 0.5 0.0 0.7 0.8 0.2 0.1 0.3 0.0 0.0 0.0 0.1 0.0 
+>con41_UnFmcl001_RLX-incomp
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.7 0.0 0.0 0.8 0.0 0.2 0.6 0.0 0.3 0.2 0.3 0.1 0.0 0.4 0.0 
+>con42_mdg1
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.0 0.9 0.0 0.0 0.9 0.0 0.3 0.1 0.0 0.5 0.4 0.2 0.0 0.0 0.9 0.0 
+>con43_H
+CMC,TIR,DNATransposon 2/1/3  0.3 1.0 0.3 0.2 0.0 0.0 0.4 0.0 0.8 0.7666666666666666 0.0 0.0 0.3 0.1 0.0 0.0 0.2 0.0 
+>con45_Tabor
+Gypsy,LTR,Retrotransposon 1/1/2  0.4 1.0 0.0 0.8 0.0 0.0 0.7 0.0 0.3 0.2 0.0 0.5 0.2 0.2 0.0 0.0 0.4 0.0 
+>con46_297
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.1 0.9 0.1 0.0 1.0 0.0 0.3 0.3 0.2 0.3 0.1 0.1 0.1 0.0 0.8 0.0 
+>con48_412
+Gypsy,LTR,Retrotransposon 1/1/2  0.5 0.9 0.1 0.9 0.0 0.0 0.6 0.0 0.2 0.3 0.0 0.4 0.6 0.2 0.0 0.0 0.8 0.0 
+>con48_FB
+Gypsy,LTR,Retrotransposon 1/1/2  0.6 0.9 0.2 0.4 0.0 0.1 0.4666666666666666 0.3 0.5 0.9 0.0 0.1 0.0 0.2 0.4 0.0 0.3 0.0 
+>con48_roo
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.2 0.5 0.0 0.0 0.3 0.0 0.1 0.2 0.0 0.0 0.6 0.2 0.0 0.0 0.5 0.0 
+>DBGP_accord2
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.2 0.8 0.0 0.0 0.5 0.0 0.4 1.0 0.1 0.3 0.1 0.1 0.0 0.1 0.2 0.0 
+>DBGP_aurora
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.0 0.5 0.0 0.0 0.5 0.0 0.1 1.0 0.0 0.9 0.0 0.0 0.1 0.1 0.0 0.0 
+>DBGP_baggins
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.2 0.6 0.0 0.9 1.0 0.0 0.1 0.9 0.0 0.5 0.1 0.0 0.0 0.1 0.2 0.0 
+>DBGP_Bari2
+Zator,TIR,DNATransposon 2/1/5  0.1 0.9 0.3 0.4 0.0 0.0 0.6 0.3 0.8 0.9 0.1 0.2 0.1 0.1 0.3 0.0 0.2 0.0 
+>DBGP_BS3
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 0.5 0.2 0.3 0.0 0.4 1.0 0.0 0.4 1.0 0.1 0.7 0.0 0.0 0.1 0.1 0.0 0.0 
+>DBGP_Circe
+Gypsy,LTR,Retrotransposon 1/1/2  0.5 1.0 0.1 0.8 0.0 0.0 0.3 0.1 0.2 0.5 0.3 0.3 0.1 0.0 0.1 0.1 0.3 0.0 
+>DBGP_Dana-Tom
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.8 0.0 0.1 0.8 0.0 0.1 0.2 0.0 0.1 0.4 0.0 0.0 0.0 0.4 0.0 
+>DBGP_frogger
+hAT,TIR,DNATransposon 2/1/2  0.5 1.0 0.8 0.3 0.0 0.2 0.7 0.2 0.6 0.6 0.0 0.3 0.0 0.1 0.1 0.0 0.3 0.1 
+>DBGP_Fw3
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.7 0.1 0.3 0.0 0.2 1.0 0.0 0.2 0.7 0.1 0.4 0.0 0.0 0.0 0.1 0.1 0.0 
+>DBGP_G5
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.0 0.0 0.3 0.0 0.9 1.0 0.0 0.1 0.8 0.1 0.7 0.1 0.0 0.1 0.0 0.0 0.0 
+>DBGP_G5A
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.2 0.1 0.8 0.0 0.4 1.0 0.0 0.3 0.8 0.0 0.4 0.2 0.0 0.1 0.0 0.2 0.0 
+>DBGP_G7
+Gypsy,LTR,Retrotransposon 1/1/2  0.5 0.8 0.0 0.5 0.3 0.6 0.8 0.1 0.2 0.9 0.0 0.3 0.1 0.0 0.1 0.2 0.1 0.0 
+>DBGP_gypsy2
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.9 0.1 0.0 0.6 0.0 0.1 0.6 0.0 0.2 0.0 0.1 0.0 0.0 0.0 0.0 
+>DBGP_gypsy3
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.8 0.0 0.0 0.6 0.0 0.0 0.9 0.0 0.8 0.1 0.0 0.0 0.0 0.1 0.0 
+>DBGP_gypsy7
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 1.0 0.0 0.0 0.7 0.0 0.4 0.5 0.2 0.0 0.3 0.1 0.0 0.1 0.4 0.0 
+>DBGP_gypsy9
+Gypsy,LTR,Retrotransposon 1/1/2  0.6 1.0 0.0 0.4 0.0 0.1 0.5 0.0 0.3 0.4 0.0 0.1 0.3 0.0 0.0 0.1 0.4 0.0 
+>DBGP_gypsy11
+Gypsy,LTR,Retrotransposon 1/1/2  0.5 1.0 0.1 0.3 0.0 0.1 0.5 0.0 0.3 0.3 0.0 0.5 0.3 0.0 0.0 0.1 0.4 0.0 
+>DBGP_Helena
+LINE,Non-LTR,Retrotransposon 1/2/1  0.7 0.3 0.0 0.5 0.1 0.6 1.0 0.0 0.2 0.2 0.0 0.5 0.2 0.0 0.1 0.1 0.3 0.0 
+>DBGP_Helitron
+Helitron,DNATransposon 2/2  0.1 1.0 0.1 0.7 0.1 0.0 0.4 0.4 0.9 0.4 0.2 0.3 0.2 0.0 0.1 0.0 0.6 0.0 
+>DBGP_invader5
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.0 0.9 0.0 0.0 0.9 0.0 0.2 0.7 0.0 0.0 0.2 0.0 0.0 0.3 0.4 0.0 
+>DBGP_jockey2
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.0 0.2 0.0 0.8 1.0 0.0 0.0 0.8 0.0 0.1 0.0 0.0 0.1 0.0 0.1 0.0 
+>DBGP_Osvaldo
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.0 0.7 0.0 0.0 0.7 0.2 0.3 0.8 0.1 0.8 0.0 0.0 0.1 0.4 0.1 0.0 
+>DBGP_Penelope
+hAT,TIR,DNATransposon 2/1/2  0.4 0.8 0.4 0.7 0.2 0.0 0.7 0.1 0.6 0.6 0.1 0.3 0.3 0.0 0.2 0.1 0.6 0.0 
+>DBGP_Q-element
+hAT,TIR,DNATransposon 2/1/2  0.3 0.3 0.1 0.3 0.1 0.7 0.9 0.1 0.7 0.5 0.0 0.2 0.1 0.1 0.0 0.0 0.5 0.0 
+>DBGP_R1-2
+Gypsy,LTR,Retrotransposon 1/1/2  1.0 0.6 0.1 0.2 0.1 0.6 1.0 0.0 0.3 0.7 0.1 0.6 0.0 0.0 0.0 0.0 0.0 0.0 
+>DBGP_R1A1-element
+LINE,Non-LTR,Retrotransposon 1/2/1  0.8 0.3 0.1 0.3 0.1 0.6 0.9 0.0 0.3 1.0 0.0 0.8 0.0 0.0 0.0 0.0 0.1 0.0 
+>DBGP_R2-element
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.0 0.0 0.4 0.0 0.6 1.0 0.0 0.0 0.9 0.0 0.1 0.0 0.0 0.0 0.2 0.2 0.0 
+>DBGP_rooA
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.5 0.0 0.0 0.7 0.0 0.2 0.8 0.1 0.3 0.4 0.0 0.0 0.1 0.3 0.0 
+>DBGP_Rt1c
+LINE,Non-LTR,Retrotransposon 1/2/1  1.0 0.1 0.0 0.7 0.1 0.9 1.0 0.0 0.0 0.9 0.0 0.6 0.0 0.0 0.1 0.0 0.1 0.0 
+>DBGP_Stalker
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.1 0.9 0.0 0.0 0.9 0.0 0.3 0.4 0.0 0.5 0.3 0.1 0.0 0.0 0.7 0.0 
+>DBGP_TART-A
+LINE,Non-LTR,Retrotransposon 1/2/1  0.9 0.3 0.1 0.3 0.1 0.7 1.0 0.0 0.2 0.9 0.0 0.6 0.1 0.0 0.1 0.0 0.0 0.0 
+>DBGP_TART-B
+LINE,Non-LTR,Retrotransposon 1/2/1  0.8 0.1 0.1 0.4 0.1 0.6 1.0 0.0 0.2 0.7 0.1 0.6 0.2 0.0 0.0 0.1 0.1 0.0 
+>DBGP_TART-C
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.3 0.2 0.7 0.0 0.3 1.0 0.0 0.3 0.8 0.0 0.7 0.1 0.0 0.0 0.1 0.2 0.0 
+>DBGP_Tom1
+hAT,TIR,DNATransposon 2/1/2  0.4 0.9 0.1 0.5 0.0 0.0 0.4 0.7 0.9 0.8 0.0 0.2 0.2 0.2 0.1 0.1 0.0 0.1 
+>DBGP_transib3
+CMC,TIR,DNATransposon 2/1/3  0.2 1.0 0.0 0.8 0.0 0.2 0.6 0.0 0.7 0.8 0.0 0.2 0.4 0.0 0.1 0.0 0.1 0.0 
+>DBGP_transib4
+CMC,TIR,DNATransposon 2/1/3  0.1 1.0 0.2 0.2 0.0 0.1 0.8 0.0 0.8 0.5 0.0 0.0 0.1 0.0 0.0 0.0 0.2 0.0 
+>DBGP_ZAM
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 0.9 0.2 0.9 0.0 0.1 0.8 0.0 0.1 0.5 0.2 0.2 0.2 0.3 0.1 0.0 0.7 0.0 
+>DNAREP1_INE-1
+hAT,TIR,DNATransposon 2/1/2  0.1 1.0 0.2 0.6 0.0 0.0 0.1 0.6 0.9 0.9 0.0 0.7 0.1 0.0 0.0 0.0 0.0 0.0 
+>UnFUnClUnAlig_DHX-incomp_COR
+Zator,TIR,DNATransposon 2/1/5  0.0 1.0 0.4 0.2 0.1 0.0 0.5 0.3 0.8 0.9 0.0 0.3 0.1 0.0 0.4 0.1 0.1 0.0 
+>UnFUnClUnAlig_DXX-MITE_COR
+hAT,TIR,DNATransposon 2/1/2  0.5 0.8 0.1 0.7 0.1 0.0 0.2 0.0 0.9 0.5 0.0 0.2 0.0 0.0 0.1 0.0 0.2 0.0 
+>UnFUnClUnAlig_noCat_SLO
+Gypsy,LTR,Retrotransposon 1/1/2  0.4 1.0 0.0 0.4 0.0 0.0 0.6 0.2 0.1 0.9 0.0 0.2 0.1 0.0 0.2 0.0 0.5 0.0 
+>UnFUnClUnAlig_RIX-comp_TEN
+Gypsy,LTR,Retrotransposon 1/1/2  0.8 1.0 0.0 0.3 0.0 0.0 0.2 0.1 0.0 0.5 0.1 0.5 0.4 0.1 0.0 0.1 0.2 0.0 
+>UnFUnClUnAlig_RIX-incomp_JUT_2
+Gypsy,LTR,Retrotransposon 1/1/2  0.6 0.9 0.2 0.6 0.1 0.1 0.9 0.1 0.2 0.8 0.0 0.4 0.1 0.0 0.3 0.0 0.2 0.1 
+>UnFUnClUnAlig_RLX-incomp_COR
+CMC,TIR,DNATransposon 2/1/3  0.0 1.0 0.3 0.4 0.0 0.1 0.7 0.3 0.9 0.8 0.1 0.1 0.3 0.1 0.1 0.0 0.1 0.0 
+>UnFUnClUnAlig_RLX-incomp_COR_2
+Gypsy,LTR,Retrotransposon 1/1/2  0.4 1.0 0.1 0.5 0.0 0.0 0.4 0.3 0.4 0.4 0.0 0.4 0.2 0.4 0.1 0.4 0.5 0.0 
+>UnFUnClUnAlig_RLX-incomp_COR_3
+Gypsy,LTR,Retrotransposon 1/1/2  0.6 1.0 0.2 0.6 0.0 0.0 0.5 0.7 0.3 0.5 0.0 0.1 0.1 0.1 0.1 0.1 0.2 0.1 
+>UnFUnClUnAlig_RLX-incomp_FIN
+Gypsy,LTR,Retrotransposon 1/1/2  0.4 0.8 0.5 0.9 0.3 0.1 0.2 0.7 0.3 0.6 0.1 0.3 0.3 0.2 0.3 0.1 0.1 0.2 
+>UnFUnClUnAlig_RLX-incomp_MUN
+Copia,LTR,Retrotransposon 1/1/1  0.8 1.0 0.3 0.3 0.2 0.0 0.4 0.2 0.1 0.7 0.0 0.6 0.2 0.0 0.1 0.2 0.0 0.0 
+>UnFUnClUnAlig_RLX-incomp_MUN_3
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 1.0 0.1 0.6 0.0 0.1 0.5 0.0 0.5 0.5 0.1 0.3 0.0 0.0 0.0 0.2 0.4 0.0 
+>UnFUnClUnAlig_RLX-incomp_RAL177
+Copia,LTR,Retrotransposon 1/1/1  0.4 1.0 0.7 0.2 0.0 0.0 0.6 0.2 0.3 0.6 0.1 0.7 0.0 0.0 0.1 0.2 0.1 0.0 
+>UnFUnClUnAlig_RLX-incomp_SLO
+hAT,TIR,DNATransposon 2/1/2  0.2 1.0 0.2 0.7 0.1 0.1 0.4 0.8 0.6 0.6 0.1 0.5 0.2 0.0 0.5 0.0 0.2 0.0 
+>UnFUnClUnAlig_RLX-incomp_SLO_4
+Gypsy,LTR,Retrotransposon 1/1/2  0.5 1.0 0.1 0.5 0.1 0.0 0.6 0.5 0.4 0.9 0.2 0.1 0.3 0.0 0.2 0.1 0.1 0.0 
+>UnFUnClUnAlig_RLX-incomp_TOM
+CMC,TIR,DNATransposon 2/1/3  0.2 0.9 0.1 0.6 0.0 0.0 0.6 0.0 0.6 0.9 0.0 0.2 0.3 0.1 0.2 0.0 0.2 0.0 
+>UnFUnClUnAlig_RLX-incomp_TOM_2
+Tc1-Mariner,TIR,DNATransposon 2/1/1  0.2 0.8 0.2 0.3 0.1 0.0 0.5 0.5 0.9 1.0 0.3 0.2 0.0 0.0 0.2 0.0 0.0 0.1 
+>UnFUnClUnAlig_RLX-incomp_TOM_3
+Zator,TIR,DNATransposon 2/1/5  0.3 1.0 0.2 0.8 0.1 0.0 0.5 0.5 0.5 0.8 0.0 0.4 0.4 0.1 0.5 0.0 0.1 0.0 
+>UnFUnClUnAlig_RXX-TRIM_B22_2
+Gypsy,LTR,Retrotransposon 1/1/2  0.7 0.7 0.3 0.9 0.0 0.3 0.5 0.7 0.6 0.8 0.1 0.3 0.2 0.2 0.4 0.1 0.0 0.5 
+>UnFmclCluster039_RLX-incomp_COR
+Gypsy,LTR,Retrotransposon 1/1/2  0.5 1.0 0.1 0.9 0.0 0.0 0.9 0.0 0.4 0.6 0.2 0.5 0.2 0.0 0.0 0.1 0.4 0.0 
+>UnFmclCluster039_RLX-incomp_TOM
+Gypsy,LTR,Retrotransposon 1/1/2  0.9 1.0 0.1 0.8 0.0 0.0 0.9 0.0 0.3 0.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+>UnFmclCluster051_DTX-incomp_SLO
+Copia,LTR,Retrotransposon 1/1/1  0.7 0.8 0.5 0.5 0.1 0.2 0.6 0.6 0.3 0.7 0.5 0.2 0.2 0.1 0.2 0.1 0.1 0.5 
+
+
+#Explanation:
+#forecast forecast 1 1/1 1/1/1 1/1/2 1/1/3 1/2 1/2/1 1/2/2 2 2/1 2/1/1 2/1/2 2/1/3 2/1/4 2/1/5 2/1/6 2/2 2/3 
